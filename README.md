@@ -9,4 +9,4 @@ The data describtion: Spotify attributes of songs from all available past decade
 Kaggle copmetition source: Yashar Moshfeghi. (2023). CS985/6 Spotify Classification Problem 2023. Kaggle. (https://kaggle.com/competitions/cs9856-spotify-classification-problem-2023) 
 The competition describtion: Create a model to classify songs into genres like "rock," "pop," "blues," etc. The dataset has been modified slightly - the "Number" column is now "Id," and "top genre" has been moved to the last column.
 
-Co-authored-by: Aymen Omar AB Alharm, Jimmy Ayokunle Arikawe, Oladimeji Oladepo, and Balal Saleemi.
+Co-authored-by: Aymen Omar AB Alharm, Jimmy Ayokunle Arikawe, Oladimeji Oladepo, Balal Saleemi.
